@@ -11,3 +11,7 @@ mensaje = "prueba4"
 
 print(mensaje)
 
+A = 10
+B = 2
+
+print(A+B)
